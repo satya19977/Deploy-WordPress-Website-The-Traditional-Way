@@ -1,5 +1,8 @@
 # Deploy-WordPress-Website-The-Traditional-Way
 Resources Used - **VPC(NAT Gateway,IGW,Route Table) , Route 53, RDS,EC2,ALB, EFS**
+# Architecture Of WordPress Website
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/cefd25ee-0874-44c5-b959-be75ea2a8baf)
+
 ## VPC
 ### Internet Gateway
 ### Subnets
