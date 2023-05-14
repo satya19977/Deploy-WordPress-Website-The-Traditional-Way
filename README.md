@@ -76,3 +76,31 @@ nano /var/www/html/wp-config.php
 service httpd restart
 ```
 
+## ALB
+### Target Group
+
+## Route 53
+
+## Create a Certificate Manager
+
+## HTTPS Listener For ALB
+
+```
+/* SSL Settings */
+define('FORCE_SSL_ADMIN', true);
+
+// Get true SSL status from AWS load balancer
+if(isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
+  $_SERVER['HTTPS'] = '1';
+```
+## Encryption
+```
+/* SSL Settings */
+define('FORCE_SSL_ADMIN', true);
+// Get true SSL status from AWS load balancer
+if(isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
+  $_SERVER['HTTPS'] = '1’;
+```
+## WordPress Theme Selection
+
+## Final Output 
