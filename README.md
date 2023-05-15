@@ -3,6 +3,13 @@ Resources Used - **VPC(NAT Gateway,IGW,Route Table) , Route 53, RDS,EC2,ALB, EFS
 # Architecture Of WordPress Website
 ![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/cefd25ee-0874-44c5-b959-be75ea2a8baf)
 
+# Output
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/1c06443a-732c-47c1-8510-7de67a3db438)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/9459884e-37d7-4835-b3ba-d8c36e29d244)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/df9307f1-a123-4915-9f82-1d30b80125f7)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/618b0d44-9ce4-472c-ae66-5db24debfdb7)
+
+
 ## VPC
 ### Internet Gateway
 ### Subnets
