@@ -175,14 +175,52 @@ service httpd restart
 ![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/341e29af-5386-4fd7-88aa-d9c8835a8135)
 ![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/1f076032-37e4-4468-bcd0-d2eae7200657)
 ![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/08ac0126-ccea-4d49-9574-78a89f6786fb)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/49358570-bdfa-49eb-b5cd-aa27fbeabfbc)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/b0ffc0d2-2a00-411d-99da-8cd13e1079b7)
 
 
 ## ALB
 ### Target Group
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/d0dc1eda-f46c-4439-903f-485bd8b5c598)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/a0c4f65e-0bc5-41fe-ac4a-a6f9ef56da17)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/e7678aec-bbd9-424b-aea5-6c9d937c8aef)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/b216e945-7f15-4ab6-8551-833405cbf591)
+### Create ALB
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/5a843e2c-4ccd-4c68-a237-adacc8af95d5)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/cb62132b-55cb-449f-8c35-558cd1ddecaa)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/27808c1d-c4b1-424a-81e5-c7f356a9a363)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/7e98b4bc-4598-4b73-a44e-4a2811dcd065)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/aae7f419-b93b-4591-bbbd-14b4cacdd89f)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/079fb6d5-da61-48be-b50b-5f97024dfc59)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/f63b2a66-b29b-4473-a5bb-1843527c4c02)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/cc68313f-d355-4f14-a1b7-18417194de18)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/90ef5d31-0bf4-4890-a532-b529ba69ef51)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/495a41ab-3ab4-4644-8ac0-2a9c47d589b5)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/0466a023-22c4-455f-b41f-d2fab7d426c9)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/faff653d-2a04-49cb-8c2d-77e7218e580d)
 
 ## Route 53
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/52ab1a93-559c-4734-8064-c17fd3a0acaf)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/ccda4371-7a1f-4594-b905-0e300c08bdfd)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/39454933-3041-4559-9ff7-d4116a36d05a)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/31ce7205-d843-49af-aad8-1d0af4823bd9)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/e8addcf4-c48f-4d75-9ee7-bd77f9411f8b)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/371fa2c7-ee86-407b-8c0d-493f064a65f8)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/155ad8ba-84a1-481d-8a69-5d6789e49e04)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/ab481c24-ccd5-4731-b28d-b891db7fb9b2)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/1b5a690e-8168-48b9-9871-6cad9d0325a5)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/1fe3ddff-c883-4de5-82b7-79374b40a623)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/be99c3f8-1916-4b27-b67e-ef51f78c5e1f)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/26bdea6f-1e56-42db-b218-704c4876624b)
 
 ## Create a Certificate Manager
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/46195c0b-c09e-47b0-885f-4e6709f3a542)
+** I Used the Certificate i created before**
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/787fce74-a9e3-457c-86ed-04972909fdea)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/e5c19548-e6ad-4d25-b002-67dced280f95)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/fff20bec-09df-4156-bf10-7767db708b77)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/61483eb5-e754-44aa-a653-95f96d370f52)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/4c6e7d94-a532-4d88-bc3a-dcf4c7482e53)
 
 ## HTTPS Listener For ALB
 
@@ -201,7 +239,32 @@ define('FORCE_SSL_ADMIN', true);
 // Get true SSL status from AWS load balancer
 if(isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
   $_SERVER['HTTPS'] = '1’;
-```
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/0d03f463-b816-4787-a470-8edefe2cfb0c)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/23aaba38-c8c6-4452-9805-9d5b7fdc95fd)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/4e915a92-78bf-4994-bd40-5aac463ddc2c)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/76edaa24-2613-4cf4-a9fa-36646f566bae)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/40d7827a-404a-4661-977f-79d469954a20)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/a1406e1b-65f8-4a1a-9a45-3895871abb94)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/d6704f84-f039-407c-ba6d-15ac4c8a099a)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/ab6b3e82-1594-4c12-bb8f-e57054b3a48c)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/89be056f-552d-45b0-9499-ffd45b21f5d4)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/0a2d6bd2-b0c3-4033-bda2-93d05f7a1c9a)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/820d792f-9b30-4e25-8904-6ff9eea7e024)
+
+
+
 ## WordPress Theme Selection
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/926b4800-be97-4a73-8547-56b3f206965e)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/be9af9af-a803-40a2-84c8-1de7bd8928c8)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/d584ef79-aa9b-4b92-8182-ad880709597e)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/694358e8-a653-4778-a0b1-0684931dc923)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/7d333527-3867-4b03-b3de-c0da92bb706a)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/3e2d3b06-fccf-4ef8-9f2b-7be06a8a2b3a)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/b63fd7fd-a78c-4cba-bf9c-b4dce9730f62)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/bfad4402-715b-49fe-90fa-406c0fb59123)
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/bf1ac32c-afcc-45d8-8a6b-90aaa84320b5)
+
 
 ## Final Output 
+![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/5b18c56b-afa0-47ac-9622-9a358a1011af)
+
