@@ -239,6 +239,7 @@ define('FORCE_SSL_ADMIN', true);
 // Get true SSL status from AWS load balancer
 if(isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
   $_SERVER['HTTPS'] = '1’;
+  ```
 ![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/0d03f463-b816-4787-a470-8edefe2cfb0c)
 ![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/23aaba38-c8c6-4452-9805-9d5b7fdc95fd)
 ![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/4e915a92-78bf-4994-bd40-5aac463ddc2c)
