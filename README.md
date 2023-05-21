@@ -1,7 +1,7 @@
 # Deploy-WordPress-Website-The-Traditional-Way
 Resources Used - **VPC(NAT Gateway,IGW,Route Table) , Route 53, RDS,EC2,ALB, EFS**
 # Architecture Of WordPress Website
-![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/cefd25ee-0874-44c5-b959-be75ea2a8baf)
+![image](https://github.com/satya19977/Deploy-WordPress-Website/assets/108000447/a55423a1-f19a-49ab-8505-463c0d27968a)
 
 # Output
 ![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/1c06443a-732c-47c1-8510-7de67a3db438)
@@ -14,7 +14,6 @@ Resources Used - **VPC(NAT Gateway,IGW,Route Table) , Route 53, RDS,EC2,ALB, EFS
 ![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/9bb2a213-a8d1-491f-b7b8-52ee28b6b55a)
 ![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/d9ba4d3c-5599-4697-8887-6ea91dc0f341)
 ![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/8354bef7-2c9d-4214-a4d5-b33eddc3308b)
-![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/27bde231-b3a4-4e95-a7bd-6b87930c80f4)
 
 ### Internet Gateway
 ![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/fd8269f6-43cf-4c43-a63f-6136a3a4d0d0)
