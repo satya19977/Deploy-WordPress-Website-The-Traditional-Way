@@ -1,6 +1,6 @@
 # WordPress Website Architecture
 Resources Used - **VPC(NAT Gateway,IGW,Route Table) , Route 53, RDS,EC2,ALB, EFS**
-# Architecture Of WordPress Website
+
 ![image](https://github.com/satya19977/Deploy-WordPress-Website/assets/108000447/a55423a1-f19a-49ab-8505-463c0d27968a)
 
 # Output
