@@ -1,6 +1,7 @@
 
 ![Screenshot (46)](https://github.com/satya19977/HighlyAvailable-3-Tier-Architecture/assets/108000447/06a457b2-2d8f-4daf-aa08-da8edcc95b84)
 
+![Screenshot (47)](https://github.com/satya19977/HighlyAvailable-3-Tier-Architecture/assets/108000447/1430f574-9f70-4104-9a7f-fc5b21152c1f)
 
 ![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/9459884e-37d7-4835-b3ba-d8c36e29d244)
 ![image](https://github.com/satya19977/Deploy-WordPress-Website-The-Traditional-Way/assets/108000447/df9307f1-a123-4915-9f82-1d30b80125f7)
